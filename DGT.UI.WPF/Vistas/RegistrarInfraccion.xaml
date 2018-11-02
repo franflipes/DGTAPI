@@ -1,0 +1,33 @@
+﻿<Window x:Class="DGT.UI.WPF.Vistas.RegistrarInfraccion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DGT.UI.WPF.Vistas"
+        mc:Ignorable="d"
+        Title="RegistrarInfraccion" Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+
+            <DockPanel>
+                <Label Grid.Row="0" Grid.Column="1" Content="Matricula:"/>
+                <Label x:Name="labelMatricula"/>
+            </DockPanel>
+
+
+
+            <DockPanel VerticalAlignment="Bottom" Grid.Row="1" Grid.Column="2">
+                <Label  Content="Conductor Habitual:"/>
+                <Label x:Name="labelConductor"/>
+            </DockPanel>
+
+            <DockPanel VerticalAlignment="Bottom" Grid.Row="1" Grid.Column="2">
+                <Label  Content="Infraccion:"/>
+                <ComboBox x:Name="comboInfraccion" Margin="20,0,20,0"/>
+            </DockPanel>
+
+            <Button Margin="20" Height="20" Content="registrar" Click="Button_Click"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>

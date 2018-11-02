@@ -1,0 +1,48 @@
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.csprojResolveAssemblyReference.cache
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\MainWindow.baml
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\App.g.cs
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF_MarkupCompile.cache
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.g.resources
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.Properties.Resources.resources
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.csproj.GenerateResource.Cache
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\bin\Debug\DGT.UI.WPF.exe.config
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\bin\Debug\DGT.UI.WPF.exe
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\bin\Debug\DGT.UI.WPF.pdb
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.exe
+C:\Users\fjj\Desktop\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\MainWindow.baml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Vistas\VehiculosView.baml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Vistas\VehiculosView.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\App.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF_MarkupCompile.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.g.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\DGT.UI.WPF.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\DGT.UI.WPF.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\DGT.UI.WPF.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\System.Net.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\System.Net.Http.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\DGT.DTOs.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\bin\Debug\DGT.DTOs.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Controles\Vehiculo.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\DGT.UI.WPF_MarkupCompile.lref
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Controles\Vehiculo.baml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Vistas\ConductoresView.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Vistas\ConductoresView.baml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Vistas\RegistrarInfraccion.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Vistas\Queries.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Vistas\RegistrarInfraccion.baml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\DGT\DGT.UI.WPF\obj\Debug\Vistas\Queries.baml

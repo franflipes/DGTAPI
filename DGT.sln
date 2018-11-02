@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGT.Entities", "DGT.Entities\DGT.Entities.csproj", "{6AA58654-BB76-48BD-A90F-C16C0EDC7D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGTWebApi", "DGTWebApi\DGTWebApi.csproj", "{6222575D-6FC2-494E-900F-38A2AA059193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGT.Manager", "DGT.Manager\DGT.Manager.csproj", "{D126759F-25F7-4D51-887B-79A4CE2F3F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGT.Services", "DGT.Services\DGT.Services.csproj", "{240A4146-8835-4445-A428-C70314EDAF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGT.UI.WPF", "DGT.UI.WPF\DGT.UI.WPF.csproj", "{62DED3E2-9C12-47D9-874C-9A7B0EB7BC55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGT.DTOs", "DGT.DTOs\DGT.DTOs.csproj", "{7AD285EA-310C-4FBD-A849-579546EE8429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA58654-BB76-48BD-A90F-C16C0EDC7D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA58654-BB76-48BD-A90F-C16C0EDC7D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA58654-BB76-48BD-A90F-C16C0EDC7D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA58654-BB76-48BD-A90F-C16C0EDC7D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6222575D-6FC2-494E-900F-38A2AA059193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6222575D-6FC2-494E-900F-38A2AA059193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6222575D-6FC2-494E-900F-38A2AA059193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6222575D-6FC2-494E-900F-38A2AA059193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D126759F-25F7-4D51-887B-79A4CE2F3F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D126759F-25F7-4D51-887B-79A4CE2F3F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D126759F-25F7-4D51-887B-79A4CE2F3F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D126759F-25F7-4D51-887B-79A4CE2F3F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240A4146-8835-4445-A428-C70314EDAF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240A4146-8835-4445-A428-C70314EDAF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240A4146-8835-4445-A428-C70314EDAF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240A4146-8835-4445-A428-C70314EDAF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DED3E2-9C12-47D9-874C-9A7B0EB7BC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DED3E2-9C12-47D9-874C-9A7B0EB7BC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DED3E2-9C12-47D9-874C-9A7B0EB7BC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DED3E2-9C12-47D9-874C-9A7B0EB7BC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD285EA-310C-4FBD-A849-579546EE8429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD285EA-310C-4FBD-A849-579546EE8429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD285EA-310C-4FBD-A849-579546EE8429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD285EA-310C-4FBD-A849-579546EE8429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
